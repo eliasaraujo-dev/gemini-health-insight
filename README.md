@@ -1,5 +1,3 @@
-Claro, aqui está a documentação do seu projeto "Gemini Health Insight" em formato Markdown, seguindo as diretrizes que você forneceu:
-
 ````markdown
 # Gemini Health Insight - Assistente de Saúde Preventiva Personalizado com Foco em Medicina de Precisão
 
