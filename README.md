@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 ````markdown
->>>>>>> 84a71c53b95f6a89d1e8b9206e1036559ec456da
 # Gemini Health Insight - Assistente de Saúde Preventiva Personalizado com Foco em Medicina de Precisão
 
 ## Descrição
@@ -182,8 +179,4 @@ Contribuições são bem-vindas\! Se você tiver ideias para melhorar o projeto,
 
 ## Licença
 
-<<<<<<< HEAD
-Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
-=======
-Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
->>>>>>> 84a71c53b95f6a89d1e8b9206e1036559ec456da
+[Licença MIT](https://opensource.org/licenses/MIT).
