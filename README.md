@@ -179,7 +179,7 @@ Contribuições são bem-vindas\! Se você tiver ideias para melhorar o projeto,
 
 ## Licença
 
-\[Adicionar Licença]
+\LICENSE
 
 ```
 
