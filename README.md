@@ -1,4 +1,3 @@
-````markdown
 # Gemini Health Insight - Assistente de Saúde Preventiva Personalizado com Foco em Medicina de Precisão
 
 ## Descrição
