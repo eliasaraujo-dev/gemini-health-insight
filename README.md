@@ -179,9 +179,4 @@ Contribuições são bem-vindas\! Se você tiver ideias para melhorar o projeto,
 
 ## Licença
 
-\LICENSE
-
-```
-
-Espero que esta documentação seja útil! Se precisar de mais ajustes ou detalhes, é só dizer. 😊
-```
+Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
