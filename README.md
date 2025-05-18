@@ -161,7 +161,7 @@ O núcleo do sistema é a análise de risco cardiovascular. Ele utiliza o modelo
 
       * **Explicação:** Este código envia o prompt para o modelo Gemini e imprime a resposta, que contém a análise de risco cardiovascular.
 
-## Passos e Melhorias Futuras
+## Passos e Melhorias Futuras (Roadmap)
 
   * **Expandir os tipos de dados:** Incluir mais marcadores genéticos, histórico de vacinação, dados de wearables (sono, frequência cardíaca), resultados de exames mais detalhados.
   * **Cobrir mais condições de saúde:** Além do risco cardiovascular, poderia abordar diabetes, saúde mental, risco de câncer com base em histórico familiar, etc.
