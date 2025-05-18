@@ -7,8 +7,8 @@ O Gemini Health Insight é um assistente de saúde preventiva que utiliza inteli
 ## Funcionalidades
 
 * **Análise de Risco Cardiovascular:** Avalia o risco de doenças cardiovasculares com base em dados abrangentes do paciente.
-* **Geração de Pacientes Simulados:** (Opcional) Permite a criação de dados de pacientes simulados para testes e desenvolvimento.
-* **Recomendações Personalizadas:** (Em desenvolvimento) Fornece recomendações de saúde personalizadas com base na análise de risco.
+* **Geração de Pacientes Simulados:** Permite a criação de dados de pacientes simulados para testes e desenvolvimento.
+* **Recomendações Personalizadas:** Fornece recomendações de saúde personalizadas com base na análise de risco.
 
 ## Instalação
 
